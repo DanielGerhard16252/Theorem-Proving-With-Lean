@@ -1,3 +1,5 @@
+import TheoremProvingWithLean.Topology.Compact
+
 namespace TheoremProvingWithLean
 
 /--
